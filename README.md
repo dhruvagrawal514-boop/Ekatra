@@ -16,7 +16,6 @@ An interoperability layer that lets citizens, businesses and government departme
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Cloud Firestore](https://img.shields.io/badge/Cloud_Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
 
-<img src="docs/screenshot.png" alt="Ekatra landing page" width="100%" />
 
 </div>
 
@@ -24,22 +23,22 @@ An interoperability layer that lets citizens, businesses and government departme
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
-- [About](#-about)
-- [Key Features](#-key-features)
-- [Architecture](#-architecture)
-- [Connected Portals](#-connected-portals)
-- [Impact](#-impact)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Roadmap](#-roadmap)
-- [Author](#-author)
+- [About](#about)
+- [Key Features](#key-features)
+- [Architecture](#architecture)
+- [Connected Portals](#connected-portals)
+- [Impact](#impact)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Roadmap](#roadmap)
+- [Author](#author)
 
 ---
 
-## 💡 About
+## About
 
 **The problem:** Government services in India are spread across dozens of portals (DigiLocker, Aaple Sarkar, MahaBhulekh, MahaDBT, EPFO and more). Each has its own login, its own forms and its own copy of your data. Citizens re-upload the same documents and repeat e-KYC again and again, and departments rely on manual, point-to-point integrations to talk to each other.
 
@@ -47,7 +46,7 @@ An interoperability layer that lets citizens, businesses and government departme
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 | Feature | Description |
 |---|---|
@@ -61,7 +60,7 @@ An interoperability layer that lets citizens, businesses and government departme
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```mermaid
 flowchart TB
@@ -85,13 +84,13 @@ flowchart TB
 
 ---
 
-## 🌐 Connected Portals
+## Connected Portals
 
 DigiLocker · Aaple Sarkar · MahaBhulekh · myAadhaar (UIDAI) · MahaDBT · Parivahan Sewa · PM-KISAN · UMANG · EPFO
 
 ---
 
-## 📈 Impact
+## Impact
 
 | Stakeholder | Benefit |
 |---|---|
@@ -101,7 +100,7 @@ DigiLocker · Aaple Sarkar · MahaBhulekh · myAadhaar (UIDAI) · MahaDBT · Par
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -113,20 +112,18 @@ DigiLocker · Aaple Sarkar · MahaBhulekh · myAadhaar (UIDAI) · MahaDBT · Par
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Ekatra/
 ├── index.html            # Landing page, sign-in, onboarding and citizen workspace
 ├── firebase-config.js    # Firebase web app configuration
-├── logo.png              # Brand logo
-└── docs/
-    └── screenshot.png
+└── logo.png              # Brand logo
 ```
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 **Prerequisites:** a modern browser and [Node.js](https://nodejs.org) (only for the local server).
 
@@ -149,7 +146,7 @@ Then open the URL it prints (usually `http://localhost:3000`).
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [x] Landing page explaining the interoperability layer
 - [x] Sign-up, sign-in and profile onboarding
@@ -161,7 +158,7 @@ Then open the URL it prints (usually `http://localhost:3000`).
 
 ---
 
-## 👤 Author
+## Author
 
 **Dhruv Agrawal**
 
