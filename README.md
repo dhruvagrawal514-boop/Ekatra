@@ -23,21 +23,6 @@ An interoperability layer that lets citizens, businesses and government departme
 
 ---
 
-## Table of Contents
-
-- [About](#about)
-- [Key Features](#key-features)
-- [Architecture](#architecture)
-- [Connected Portals](#connected-portals)
-- [Impact](#impact)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Roadmap](#roadmap)
-- [Author](#author)
-
----
-
 ## About
 
 **The problem:** Government services in India are spread across dozens of portals (DigiLocker, Aaple Sarkar, MahaBhulekh, MahaDBT, EPFO and more). Each has its own login, its own forms and its own copy of your data. Citizens re-upload the same documents and repeat e-KYC again and again, and departments rely on manual, point-to-point integrations to talk to each other.
